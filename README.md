@@ -10,9 +10,9 @@ The code is implemented in:
 
 - [hadoop/src/main/java/org/apache/hadoop/examples/temperature/Temperature.java](hadoop/src/main/java/org/apache/hadoop/examples/temperature/Temperature.java)
 
-- [master/hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase1.java](master/hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase1.java)
+- [hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase1.java](hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase1.java)
 
-- [master/hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase2.java](master/hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase2.java)
+- [hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase2.java](hadoop/src/main/java/org/apache/hadoop/examples/temperature/TemperaturePhase2.java)
 
 To compile the code, go to the `hadoop` folder in this repository:
 
